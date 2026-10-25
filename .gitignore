@@ -1,0 +1,15 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
